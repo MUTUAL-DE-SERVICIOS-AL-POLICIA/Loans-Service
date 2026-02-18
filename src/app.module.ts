@@ -8,7 +8,7 @@ import { LoansModule } from './loans/loans.module';
   imports: [
     CommonModule,
     DatabaseModule,
-    ConfigModule.forRoot(),
+    ConfigModule.forRoot({ isGlobal: true }),
     LoansModule,
   ],
   controllers: [],
