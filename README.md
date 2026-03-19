@@ -2,8 +2,6 @@
 
 ## Descripción
 
-## Descripción
-
 **Loans-Service** es un microservicio que gestiona la información de préstamos y créditos otorgados a los afiliados policías de la plataforma. Administra todo el ciclo de vida de los préstamos, desde la solicitud inicial hasta la liquidación total, incluyendo el cálculo de intereses, gestión de cuotas y registro de pagos.
 
 Maneja datos como:
